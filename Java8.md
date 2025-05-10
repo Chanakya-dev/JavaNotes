@@ -1,5 +1,4 @@
-Certainly! Below are the **detailed explanations** of the **first 7 concepts** introduced in Java 8:
-
+# Java8 Features
 ---
 
 ### 1. **Lambda Expressions**
