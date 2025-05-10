@@ -148,7 +148,7 @@ System.out.println(x--); // 6 (post-decrement, x becomes 5 next)
 | Operator | Description        | Example    |     |     |
 | -------- | ------------------ | ---------- | --- | --- |
 | `&`      | Bitwise AND        | `a & b`    |     |     |
-| "|"      | Bitwise OR         | \`a | b\` |
+| **|**      | Bitwise OR         | \`a | b\` |
 | `^`      | Bitwise XOR        | `a ^ b`    |     |     |
 | `~`      | Bitwise Complement | `~a`       |     |     |
 | `<<`     | Left shift         | `a << 2`   |     |     |
